@@ -7,18 +7,18 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "218930304217"
 global.confirmCode = ""
 
 global.owner = [
-  ['201028085788', '❯⏐  𝐸𝐿𝐴𝐾𝑅𝐴𝐵 ', true],
-  ['201028085788'],
-  ['201028085788'],
-  ['201028085788']
+  ['212658594530', '❯⏐  𝐸𝐿𝐴𝐾𝑅𝐴𝐵 ', true],
+  ['212658594530'],
+  ['212658594530'],
+  ['212658594530']
 ];
 
-global.suittag = ['201028085788'];
-global.prems = ['201028085788'];
+global.suittag = ['212658594530'];
+global.prems = ['212658594530'];
 global.packname = '❯⏐ elakreb ';
 global.author = '> ❯⏐ 𝐁𝐨𝐭';
 global.wm = '> 𝐵𝛩𝑇 𝐸𝐿𝐴𝐾𝑅𝐴𝐵';
